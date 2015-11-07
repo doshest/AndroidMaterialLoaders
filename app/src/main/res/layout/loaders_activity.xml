@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FF4DB9FF"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="50dp">
+
+        <com.pccnd.doshest.materialloader.loaders.HorizonTalMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp">
+
+        </com.pccnd.doshest.materialloader.loaders.HorizonTalMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.ChaseMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp">
+
+
+        </com.pccnd.doshest.materialloader.loaders.ChaseMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.LinearMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"></com.pccnd.doshest.materialloader.loaders.LinearMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.MixMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"></com.pccnd.doshest.materialloader.loaders.MixMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.PursueMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"></com.pccnd.doshest.materialloader.loaders.PursueMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.RoundMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"></com.pccnd.doshest.materialloader.loaders.RoundMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.ScatterMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"></com.pccnd.doshest.materialloader.loaders.ScatterMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.ShuttleMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"></com.pccnd.doshest.materialloader.loaders.ShuttleMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.SkipMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"></com.pccnd.doshest.materialloader.loaders.SkipMaterialLoader>
+
+        <com.pccnd.doshest.materialloader.loaders.SwapMaterialLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"></com.pccnd.doshest.materialloader.loaders.SwapMaterialLoader>
+
+    </LinearLayout>
+
+
+</ScrollView>
